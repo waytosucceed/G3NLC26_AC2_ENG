@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What type of pronoun is 'his' in the sentence: 'His bike is new'?",
+    "options": ["Demonstrative pronoun", "Possessive pronoun", "Personal pronoun"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Identify the sentence that uses a demonstrative pronoun.",
+    "options": ["I like playing outside.", "That is a beautiful flower.", "She ran home after school."],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which sentence contains a possessive pronoun?",
+    "options": ["This bag is theirs.", "This bag is them.", "This bag is they."],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Identify the possessive pronoun in this sentence: That blue backpack is ____.",
+    "options": ["They", "Me", "Mine"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which sentence uses 'yours' correctly?",
+    "options": ["This book is yours.", "Yours is a nice.", "That belongs to your."],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Choose the sentence that correctly uses 'these.'",
+    "options": ["These is her book.", "These are her books.", "These be her books."],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Choose the correct possessive pronoun to complete the sentence. This lunchbox belongs to my friend. It is _____.",
+    "options": ["hers", "yours", "mine"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Choose the correct demonstrative pronoun to complete the sentence. _____ shoes are too small for me.",
+    "options": ["These", "This", "That"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which of the following is a demonstrative pronoun?",
+    "options": ["He", "This", "Ours"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which sentence correctly uses 'hers'?",
+    "options": ["This pencil is hers.", "Hers is a big.", "She is the hers."],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which sentence contains a possessive pronoun?",
+    "options": ["This bag is theirs.", "This bag is them.", "This bag is they."],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which word is a possessive pronoun?",
+    "options": ["Theirs", "Them", "Those"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the correct demonstrative pronoun for a singular object near you.",
+    "options": ["These", "Those", "This"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What kind of pronoun is 'its' in the sentence: 'The cat licked its paw'?",
+    "options": ["Possessive pronoun", "Demonstrative pronoun", "Personal pronoun"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which is a possessive pronoun?",
+    "options": ["Ours", "We", "Them"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct possessive pronoun to complete the sentence. This pencil belongs to me. It is _____.",
+    "options": ["mine", "yours", "theirs"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the correct possessive pronoun: The red jacket is not mine. It is _____.",
+    "options": ["Her", "Hers", "She"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which sentence uses 'its' correctly?",
+    "options": ["The dog wagged its tail.", "Its is very happy.", "That is it's bone."],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the correct demonstrative pronoun to complete the sentence. _____ is my new backpack right here on the floor.",
+    "options": ["Those", "This", "That"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Identify the possessive pronoun:",
+    "options": ["He", "Yours", "You"],
+    "correct": 1
+  }
+]
